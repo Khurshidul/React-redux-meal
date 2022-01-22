@@ -1,0 +1,13 @@
+header.site-header {
+  border-bottom: 1px solid #ccc;
+}
+.primary-header {
+  padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.primary-header .logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
